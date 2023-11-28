@@ -11,7 +11,7 @@ Exécutez la commande suivante à partir du répertoire inspections pour exécut
 
 
         npx @google-cloud/functions-framework --target=fetchByRef
-Testez votre fonction en accédant à https://localhost:8080/inspections/{ref} dans un navigateur ou en exécutant curl localhost:8080 à partir d'une autre fenêtre.
+Testez votre fonction en accédant à https://localhost:8080/inspections/{ref} (les ref existant vont de 1 a 10) dans un navigateur ou en exécutant curl localhost:8080/inspections/{ref} à partir d'une autre fenêtre.
 
 Pour en savoir plus, consultez la section Envoyer des requêtes aux fonctions locales.
 

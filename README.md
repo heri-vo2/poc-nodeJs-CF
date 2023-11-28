@@ -3,7 +3,7 @@
 Créer et tester votre fonction localement
 Pour tester votre fonction localement avant de la déployer, vous devez installer le framework des fonctions localement, puis exécuter la fonction.
 
-Exécutez la commande suivante à partir du répertoire helloworld pour installer le framework des fonctions sur votre ordinateur local:
+Exécutez la commande suivante à partir du répertoire inspections pour installer le framework des fonctions sur votre ordinateur local:
 
 
         npm install @google-cloud/functions-framework

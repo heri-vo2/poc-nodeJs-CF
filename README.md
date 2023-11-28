@@ -13,12 +13,10 @@ Exécutez la commande suivante à partir du répertoire inspections pour exécut
         npx @google-cloud/functions-framework --target=fetchByRef
 Testez votre fonction en accédant à https://localhost:8080/inspections/{ref} (les ref existant vont de 1 a 10) dans un navigateur ou en exécutant curl localhost:8080/inspections/{ref} à partir d'une autre fenêtre.
 
-Pour en savoir plus, consultez la section Envoyer des requêtes aux fonctions locales.
-
 La fonction renvoie l'inspection au ref associé.
 
 Déployer la fonction
-Pour déployer votre fonction, exécutez la commande gcloud functions deploy dans le répertoire helloworld:
+Pour déployer votre fonction, exécutez la commande gcloud functions deploy dans le répertoire inspections
 
 
         gcloud functions deploy nomDeLaFonction \
@@ -29,6 +27,8 @@ Pour déployer votre fonction, exécutez la commande gcloud functions deploy dan
           --entry-point=fetchByRef \
           --trigger-http \
           --allow-unauthenticated
+
+          
 Remplacez REGION par le nom de la région Google Cloud dans laquelle vous souhaitez déployer votre fonction (par exemple, us-west1).
 
 Cette opération déploie votre exemple de fonction avec l'environnement d'exécution nodejs20 dans la région de votre choix.

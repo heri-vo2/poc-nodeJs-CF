@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "56d61035a378eccde8a971b5",
+    "certificate_number": 9322205,
+    "business_name": "DWANE WALKER DARRELL WALKER",
+    "date": "Jan 20 2016",
+    "result": "No Violation Issued",
+    "sector": "Salons And Barbershop - 841",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11216",
+      "street": "PROSPECT PL",
+      "number": "788"
+    },
+    "ref": 1
+  },
+  {
+    "_id": "56d61035a378eccde8a971b4",
+    "certificate_number": 5390512,
+    "business_name": "J.V.D. FOOD CORP.",
+    "date": "Jan 21 2016",
+    "result": "Violation Issued",
+    "sector": "Supermarket - 819",
+    "address": {
+      "city": "BRONX",
+      "zip": "10460",
+      "street": "E 180TH ST",
+      "number": "820"
+    },
+    "ref": 2
+  },
+  {
+    "_id": "56d61035a378eccde8a971b3",
+    "certificate_number": 9324819,
+    "business_name": "H & A GRILL AND GROCERY INC.",
+    "date": "Jan 22 2016",
+    "result": "Posting Order Served",
+    "sector": "Cigarette Retail Dealer - 127",
+    "address": {
+      "city": "JAMAICA",
+      "zip": "11434",
+      "street": "SUTPHIN BLVD",
+      "number": "12203"
+    },
+    "ref": 3
+  },
+  {
+    "_id": "56d61035a378eccde8a971b2",
+    "certificate_number": 5391070,
+    "business_name": "MR. CHRIS NOLTE",
+    "date": "Dec  1 2015",
+    "result": "NOH Withdrawn",
+    "sector": "Misc Non-Food Retail - 817",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11205",
+      "street": "FLUSHING AVE",
+      "number": "134"
+    },
+    "ref": 4
+  },
+  {
+    "_id": "56d61035a378eccde8a971b1",
+    "certificate_number": 9288131,
+    "business_name": "AMINI, ABDERRAHIM",
+    "date": "Jan 22 2016",
+    "result": "Out of Business",
+    "sector": "Cigarette Retail Dealer - 127",
+    "address": {
+      "city": "BRONX",
+      "zip": "10451",
+      "street": "E 149TH ST",
+      "number": "149"
+    },
+    "ref": 5
+  },
+  {
+    "_id": "56d61035a378eccde8a971b0",
+    "certificate_number": 9321850,
+    "business_name": "GENERAL NUTRITION CORPORATION",
+    "date": "Jan 20 2016",
+    "result": "No Violation Issued",
+    "sector": "Misc Non-Food Retail - 817",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11210",
+      "street": "FLATBUSH AVE",
+      "number": "1569"
+    },
+    "ref": 6
+  },
+  {
+    "_id": "56d61035a378eccde8a971af",
+    "certificate_number": 9322509,
+    "business_name": "QUICK STOP GOURMET DELI CORP.",
+    "date": "Jan 20 2016",
+    "result": "No Violation Issued",
+    "sector": "Cigarette Retail Dealer - 127",
+    "address": {
+      "city": "BRONX",
+      "zip": "10457",
+      "street": "E TREMONT AVE",
+      "number": "685"
+    },
+    "ref": 7
+  },
+  {
+    "_id": "56d61035a378eccde8a971ae",
+    "certificate_number": 3051614,
+    "business_name": "El Rancho Nuevo Supermarket, Corp.",
+    "date": "Jan 20 2016",
+    "result": "Pass",
+    "sector": "Grocery-Retail - 808",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11220",
+      "street": "5TH AVE",
+      "number": "4401"
+    },
+    "ref": 8
+  },
+  {
+    "_id": "56d61035a378eccde8a971ad",
+    "certificate_number": 9322223,
+    "business_name": "NOSTRAND FITNESS CENTER, INC",
+    "date": "Jan 22 2016",
+    "result": "No Violation Issued",
+    "sector": "Salons And Barbershop - 841",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11216",
+      "street": "SAINT MARKS AVE",
+      "number": "714"
+    },
+    "ref": 9
+  },
+  {
+    "_id": "56d61035a378eccde8a971ac",
+    "certificate_number": 5391676,
+    "business_name": "ALHABLA DELI CORP",
+    "date": "Jan 26 2016",
+    "result": "Violation Issued",
+    "sector": "Cigarette Retail Dealer - 127",
+    "address": {
+      "city": "BROOKLYN",
+      "zip": "11217",
+      "street": "HOYT ST",
+      "number": "182"
+    },
+    "ref": 10
+  }
+]

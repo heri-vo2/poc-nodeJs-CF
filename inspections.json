@@ -1,0 +1,846 @@
+{
+	"_id" : ObjectId("56d61035a378eccde8a971b5"),
+	"certificate_number" : 9322205,
+	"business_name" : "DWANE WALKER DARRELL WALKER",
+	"date" : "Jan 20 2016",
+	"result" : "No Violation Issued",
+	"sector" : "Salons And Barbershop - 841",
+	"address" : {
+		"city" : "BROOKLYN",
+		"zip" : "11216",
+		"street" : "PROSPECT PL",
+		"number" : "788"
+	},
+	"ref" : 79999
+},
+{
+"_id" : ObjectId("56d61035a378eccde8a971b4"),
+"certificate_number" : 5390512,
+"business_name" : "J.V.D. FOOD CORP.",
+"date" : "Jan 21 2016",
+"result" : "Violation Issued",
+"sector" : "Supermarket - 819",
+"address" : {
+"city" : "BRONX",
+"zip" : "10460",
+"street" : "E 180TH ST",
+"number" : "820"
+},
+"ref" : 79998
+},
+
+/* 3 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971b3"),
+"certificate_number" : 9324819,
+"business_name" : "H & A GRILL AND GROCERY INC.",
+"date" : "Jan 22 2016",
+"result" : "Posting Order Served",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "JAMAICA",
+"zip" : "11434",
+"street" : "SUTPHIN BLVD",
+"number" : "12203"
+},
+"ref" : 79997
+},
+
+/* 4 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971b2"),
+"certificate_number" : 5391070,
+"business_name" : "MR. CHRIS NOLTE",
+"date" : "Dec  1 2015",
+"result" : "NOH Withdrawn",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11205",
+"street" : "FLUSHING AVE",
+"number" : "134"
+},
+"ref" : 79996
+},
+
+/* 5 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971b1"),
+"certificate_number" : 9288131,
+"business_name" : "AMINI, ABDERRAHIM",
+"date" : "Jan 22 2016",
+"result" : "Out of Business",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BRONX",
+"zip" : "10451",
+"street" : "E 149TH ST",
+"number" : "149"
+},
+"ref" : 79995
+},
+
+/* 6 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971b0"),
+"certificate_number" : 9321850,
+"business_name" : "GENERAL NUTRITION CORPORATION",
+"date" : "Jan 20 2016",
+"result" : "No Violation Issued",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11210",
+"street" : "FLATBUSH AVE",
+"number" : "1569"
+},
+"ref" : 79994
+},
+
+/* 7 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971af"),
+"certificate_number" : 9322509,
+"business_name" : "QUICK STOP GOURMET DELI CORP.",
+"date" : "Jan 20 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BRONX",
+"zip" : "10457",
+"street" : "E TREMONT AVE",
+"number" : "685"
+},
+"ref" : 79993
+},
+
+/* 8 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971ae"),
+"certificate_number" : 3051614,
+"business_name" : "El Rancho Nuevo Supermarket, Corp.",
+"date" : "Jan 20 2016",
+"result" : "Pass",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11220",
+"street" : "5TH AVE",
+"number" : "4401"
+},
+"ref" : 79992
+},
+
+/* 9 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971ad"),
+"certificate_number" : 9322223,
+"business_name" : "NOSTRAND FITNESS CENTER, INC",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Salons And Barbershop - 841",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "SAINT MARKS AVE",
+"number" : "714"
+},
+"ref" : 79991
+},
+
+/* 10 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971ac"),
+"certificate_number" : 5391676,
+"business_name" : "ALHABLA DELI CORP",
+"date" : "Jan 26 2016",
+"result" : "Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11217",
+"street" : "HOYT ST",
+"number" : "182"
+},
+"ref" : 79990
+},
+
+/* 11 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971ab"),
+"certificate_number" : 3050803,
+"business_name" : "JASON & HARRY FOOD CORP.",
+"date" : "Jan 21 2016",
+"result" : "Pass",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10019",
+"street" : "7TH AVE",
+"number" : "850"
+},
+"ref" : 79989
+},
+
+/* 12 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971aa"),
+"certificate_number" : 9324970,
+"business_name" : "THREE S & J FAMILY CORP.",
+"date" : "Jan 20 2016",
+"result" : "No Violation Issued",
+"sector" : "Wearing Apparel - 450",
+"address" : {
+"city" : "JACKSON HEIGHTS",
+"zip" : "11372",
+"street" : "ROOSEVELT AVE",
+"number" : "8213"
+},
+"ref" : 79988
+},
+
+/* 13 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a9"),
+"certificate_number" : 9306322,
+"business_name" : "",
+"date" : "Aug 26 2015",
+"result" : "Pass",
+"sector" : "Sightseeing Bus - 078",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10017",
+"street" : "E 42ND ST",
+"number" : "2"
+},
+"ref" : 79987
+},
+
+/* 14 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a8"),
+"certificate_number" : 5389949,
+"business_name" : "8 West Kingsbridge Candy Inc.",
+"date" : "Jan 21 2016",
+"result" : "Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BRONX",
+"zip" : "10468",
+"street" : "W KINGSBRIDGE RD",
+"number" : "8"
+},
+"ref" : 79986
+},
+
+/* 15 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a7"),
+"certificate_number" : 40001247,
+"business_name" : "HEARTLAND GULF CORP",
+"date" : "Jan 26 2016",
+"result" : "Pass",
+"sector" : "Gas Station-Retail - 815",
+"address" : {
+"city" : "STATEN ISLAND",
+"zip" : "10314",
+"street" : "RICHMOND AVE",
+"number" : "2443"
+},
+"ref" : 79985
+},
+
+/* 16 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a6"),
+"certificate_number" : 5389637,
+"business_name" : "SP PLUS CORPORATION",
+"date" : "Jan 21 2016",
+"result" : "Violation Issued",
+"sector" : "Garage - 049",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10019",
+"street" : "9TH AVE",
+"number" : "910"
+},
+"ref" : 79984
+},
+
+/* 17 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a5"),
+"certificate_number" : 9322422,
+"business_name" : "SPEEDWAY LLC",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11203",
+"street" : "UTICA AVE",
+"number" : "530"
+},
+"ref" : 79983
+},
+
+/* 18 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a4"),
+"certificate_number" : 9288119,
+"business_name" : "7 STAR WIRELESS INC.",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Electronic Store - 001",
+"address" : {
+"city" : "BRONX",
+"zip" : "10454",
+"street" : "E 138TH ST",
+"number" : "570A"
+},
+"ref" : 79982
+},
+
+/* 19 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a3"),
+"certificate_number" : 9288121,
+"business_name" : "LEFTY FURNITURE INC",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Furniture Sales - 242",
+"address" : {
+"city" : "BRONX",
+"zip" : "10454",
+"street" : "E 138TH ST",
+"number" : "538"
+},
+"ref" : 79981
+},
+
+/* 20 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a2"),
+"certificate_number" : 9321951,
+"business_name" : "P & S BEAUTY CORP",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11226",
+"street" : "FLATBUSH AVE",
+"number" : "1023"
+},
+"ref" : 79980
+},
+
+/* 21 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a1"),
+"certificate_number" : 5389403,
+"business_name" : "JBSR ASSOCIATES LLC",
+"date" : "Jan 21 2016",
+"result" : "Violation Issued",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10022",
+"street" : "1ST AVE",
+"number" : "942"
+},
+"ref" : 79979
+},
+
+/* 22 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a971a0"),
+"certificate_number" : 3053452,
+"business_name" : "NINA'S LAUNDROMAT, INC",
+"date" : "Jan 22 2016",
+"result" : "Pass",
+"sector" : "Laundry - 064",
+"address" : {
+"city" : "SOUTH RICHMOND HILL",
+"zip" : "11419",
+"street" : "101ST AVE",
+"number" : "12105"
+},
+"ref" : 79978
+},
+
+/* 23 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719f"),
+"certificate_number" : 9317814,
+"business_name" : "T-Mobile Northeast LLC",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Electronic Store - 001",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10038",
+"street" : "MAIDEN LN",
+"number" : "125"
+},
+"ref" : 79977
+},
+
+/* 24 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719e"),
+"certificate_number" : 5389515,
+"business_name" : "SURVIVORS INC",
+"date" : "Jan 22 2016",
+"result" : "Violation Issued",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10006",
+"street" : "LIBERTY ST",
+"number" : "112"
+},
+"ref" : 79976
+},
+
+/* 25 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719d"),
+"certificate_number" : 9322219,
+"business_name" : "CERGIO BOWEN",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Salons And Barbershop - 841",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "NOSTRAND AVE",
+"number" : "673"
+},
+"ref" : 79975
+},
+
+/* 26 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719c"),
+"certificate_number" : 9322498,
+"business_name" : "CIGARETTE KIOSK INC.",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "JAMAICA",
+"zip" : "11434",
+"street" : "MERRICK BLVD",
+"number" : "13037"
+},
+"ref" : 79974
+},
+
+/* 27 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719b"),
+"certificate_number" : 9324270,
+"business_name" : "LAZ PARKING NEW YORK/NEW JERSEY, LLC",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Garage - 049",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10065",
+"street" : "E 65TH ST",
+"number" : "360"
+},
+"ref" : 79973
+},
+
+/* 28 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9719a"),
+"certificate_number" : 5392009,
+"business_name" : "CHUNG SOOK BARK",
+"date" : "Jan 22 2016",
+"result" : "Violation Issued",
+"sector" : "Salons And Barbershop - 841",
+"address" : {
+"city" : "WHITESTONE",
+"zip" : "11357",
+"street" : "154TH ST",
+"number" : "1122"
+},
+"ref" : 79972
+},
+
+/* 29 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97199"),
+"certificate_number" : 40001765,
+"business_name" : "MAJESTIC OIL CORP",
+"date" : "Jan 21 2016",
+"result" : "Pass",
+"sector" : "Fuel Oil Dealer - 814",
+"address" : {
+"city" : "BRONX",
+"zip" : "10462",
+"street" : "BRONXDALE AVE",
+"number" : "1840"
+},
+"ref" : 79971
+},
+
+/* 30 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97198"),
+"certificate_number" : 10003587,
+"business_name" : "DOUBLE A AUTOMOTIVE CORP",
+"date" : "Dec 22 2015",
+"result" : "Pass",
+"sector" : "Tow Truck Company - 124",
+"address" : {
+"city" : "",
+"zip" : "",
+"street" : "",
+"number" : ""
+},
+"ref" : 79970
+},
+
+/* 31 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97197"),
+"certificate_number" : 70037531,
+"business_name" : "WASHINGTON GOURMET DELI CORP",
+"date" : "Jan 21 2016",
+"result" : "Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11238",
+"street" : "WASHINGTON AVE",
+"number" : "773"
+},
+"ref" : 79969
+},
+
+/* 32 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97196"),
+"certificate_number" : 5392977,
+"business_name" : "FIRST STOP GROCERY INC. #2",
+"date" : "Jan 22 2016",
+"result" : "Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11206",
+"street" : "MARCY AVE",
+"number" : "643"
+},
+"ref" : 79968
+},
+
+/* 33 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97195"),
+"certificate_number" : 3050630,
+"business_name" : "FIRST AVENUE BAGEL VENTURES LLC",
+"date" : "Jan 21 2016",
+"result" : "Pass",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10009",
+"street" : "1ST AVE",
+"number" : "176"
+},
+"ref" : 79967
+},
+
+/* 34 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97194"),
+"certificate_number" : 3050288,
+"business_name" : "719 BROTHERS FAMOUS DELI CORP.",
+"date" : "Jan 20 2016",
+"result" : "Pass",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10019",
+"street" : "9TH AVE",
+"number" : "719"
+},
+"ref" : 79966
+},
+
+/* 35 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97193"),
+"certificate_number" : 9324263,
+"business_name" : "WU, FEE CHING",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Dry Cleaners - 230",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10065",
+"street" : "E 68TH ST",
+"number" : "161"
+},
+"ref" : 79965
+},
+
+/* 36 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97192"),
+"certificate_number" : 9288118,
+"business_name" : "548 CANDY GROCERY CORP.",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BRONX",
+"zip" : "10454",
+"street" : "E 138TH ST",
+"number" : "548"
+},
+"ref" : 79964
+},
+
+/* 37 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97191"),
+"certificate_number" : 50066047,
+"business_name" : "DE RONG INC.",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10002",
+"street" : "CHRYSTIE ST",
+"number" : "135"
+},
+"ref" : 79963
+},
+
+/* 38 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97190"),
+"certificate_number" : 40001768,
+"business_name" : "RAY'S FUEL CORP",
+"date" : "Jan 26 2016",
+"result" : "Fail",
+"sector" : "Fuel Oil Dealer - 814",
+"address" : {
+"city" : "ENGLEWOOD",
+"zip" : "7631",
+"street" : "LIBERTY RD",
+"number" : "170"
+},
+"ref" : 79962
+},
+
+/* 39 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718f"),
+"certificate_number" : 3042936,
+"business_name" : "FAMILY DOLLAR STORES OF NEW YORK, INC",
+"date" : "Jan 22 2016",
+"result" : "Pass",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11235",
+"street" : "NOSTRAND AVE",
+"number" : "3710"
+},
+"ref" : 79961
+},
+
+/* 40 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718e"),
+"certificate_number" : 3050623,
+"business_name" : "H & W HARDWARE CO., INC.",
+"date" : "Jan 20 2016",
+"result" : "Pass",
+"sector" : "Hardware-Retail - 811",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10009",
+"street" : "1ST AVE",
+"number" : "220"
+},
+"ref" : 79960
+},
+
+/* 41 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718d"),
+"certificate_number" : 80022355,
+"business_name" : "RAJIH DELI AND GROCERY INC",
+"date" : "Jan 22 2016",
+"result" : "Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "NOSTRAND AVE",
+"number" : "689A"
+},
+"ref" : 79959
+},
+
+/* 42 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718c"),
+"certificate_number" : 9322204,
+"business_name" : "HAPPYLUCKYNO1, LLC",
+"date" : "Jan 20 2016",
+"result" : "No Violation Issued",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "NOSTRAND AVE",
+"number" : "734"
+},
+"ref" : 79958
+},
+
+/* 43 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718b"),
+"certificate_number" : 9327362,
+"business_name" : "WOOD SPA INC",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Salons And Barbershop - 841",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10016",
+"street" : "LEXINGTON AVE",
+"number" : "133"
+},
+"ref" : 79957
+},
+
+/* 44 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a9718a"),
+"certificate_number" : 9327374,
+"business_name" : "GOLDEN GREENS, INC.",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10016",
+"street" : "MADISON AVE",
+"number" : "241"
+},
+"ref" : 79956
+},
+
+/* 45 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97189"),
+"certificate_number" : 9253329,
+"business_name" : "Universe One Stop Smoke Shop 1 Inc",
+"date" : "Jan 26 2016",
+"result" : "Posting Order Served",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11201",
+"street" : "FLATBUSH AVENUE EXT",
+"number" : "406"
+},
+"ref" : 79955
+},
+
+/* 46 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97188"),
+"certificate_number" : 3050300,
+"business_name" : "AMBROSIA BAKERY CAFE, INC.",
+"date" : "Jan 22 2016",
+"result" : "Pass",
+"sector" : "Grocery-Retail - 808",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10019",
+"street" : "8TH AVE",
+"number" : "935"
+},
+"ref" : 79954
+},
+
+/* 47 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97187"),
+"certificate_number" : 9322522,
+"business_name" : "ROHAN DELI GROCERY CORP",
+"date" : "Jan 26 2016",
+"result" : "Out of Business",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11207",
+"street" : "BLAKE AVE",
+"number" : "810"
+},
+"ref" : 79953
+},
+
+/* 48 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97186"),
+"certificate_number" : 9322212,
+"business_name" : "LORDS OF TAILORING INC",
+"date" : "Jan 21 2016",
+"result" : "No Violation Issued",
+"sector" : "Misc Non-Food Retail - 817",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "NOSTRAND AVE",
+"number" : "785"
+},
+"ref" : 79952
+},
+
+/* 49 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97185"),
+"certificate_number" : 9327370,
+"business_name" : "99 PARK AVENUE CORP.",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Garage - 049",
+"address" : {
+"city" : "NEW YORK",
+"zip" : "10016",
+"street" : "PARK AVE",
+"number" : "99"
+},
+"ref" : 79951
+},
+
+/* 50 createdAt:01/03/2016 à 22:57:09*/
+{
+"_id" : ObjectId("56d61035a378eccde8a97184"),
+"certificate_number" : 50066620,
+"business_name" : "BED-STEY FOOD CENTER CORP.",
+"date" : "Jan 22 2016",
+"result" : "No Violation Issued",
+"sector" : "Cigarette Retail Dealer - 127",
+"address" : {
+"city" : "BROOKLYN",
+"zip" : "11216",
+"street" : "BEDFORD AVE",
+"number" : "1053"
+},
+"ref" : 79950
+}
